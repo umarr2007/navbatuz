@@ -23,7 +23,6 @@ function Hero() {
           </p>
         </div>
 
-        {/* Title */}
         <h5 className="font-[400] text-[16px] sm:text-[18px] text-center mt-[40px] px-2">
           Quyidagi navbat turlaridan birini tanlang
         </h5>
